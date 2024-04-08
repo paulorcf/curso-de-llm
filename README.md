@@ -291,7 +291,7 @@ Quantization is the process of converting the weights (and activations) of a mod
 
 This section of the course focuses on learning how to build LLM-powered applications that can be used in production, with a focus on augmenting models and deploying them.
 
-![](img/roadmap_engineer.png)
+![](img/roadmap_engineer_pt_br.png)
 
 
 ### 1. Running LLMs
