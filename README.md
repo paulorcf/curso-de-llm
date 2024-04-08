@@ -69,7 +69,7 @@ This section introduces essential knowledge about mathematics, Python, and neura
 <details>
 <summary>Toggle section</summary>
 -->
-![](img/roadmap_fundamentals.png)
+![](img/roadmap_fundamentals_pt_br.png)
 
 ### 1. Mathematics for Machine Learning
 
