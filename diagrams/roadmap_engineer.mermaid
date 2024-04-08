@@ -1,0 +1,65 @@
+%%{init: {
+    'theme': 'base',
+    'fontFamily' : 'verdana',
+    'fontSize' : '11'
+}}%%
+
+%% https://mermaid.js.org/config/theming.html
+%% default, neutral, dark, forest, base
+
+%% @paulorcf - 04.2024 - v1
+
+mindmap
+    root((Engenheiro de LLM))
+        id[Básico]
+        ::icon(fa fa-book)
+        :::urgent large
+            Rodando LLMs
+                ::icon(fas fa-wrench)
+                APIs LLM
+                LLMs código aberto
+                Engenharia de prompt
+                Estruturando saídas de dados
+            Banco de dados<br>de Vetor
+                ::icon(fas fa-wrench)
+                Ingestão de documentos
+                Separando documentos
+                Incorporando dados no modelo
+                Banco de dados Vetorial
+        id{{Intermediário}}
+        ::icon(fa fa-book)
+        :::urgent large
+            {{"RAG<br>Retrieval Augmented Generation"}}
+                ::icon(fas fa-wrench)
+                Orquestração
+                Recuperador de dados
+                Memória
+                Avaliação do resultado
+            {{RAG - Avançado}}
+                ::icon(fas fa-wrench)
+                Construção de "queries"
+                Ferramentas e agentes
+                Pós-processamento
+                Programando LLMs
+        id(Avançado)
+        ::icon(fa fa-book)
+        :::urgent large
+            Optimização de inferência
+                ::icon(fas fa-wrench)
+                Atenção "flash"
+                Cache Chave-valor
+                Speculative decoding
+        id))Super Avançado))
+        ::icon(fa fa-book)
+        :::urgent large
+            Deploying LLMs
+                ::icon(fas fa-wrench)
+                Desenvolvimento local
+                Deployment demonstração
+                Deployment no servidor
+                Deployment na borda (edge)
+            Segurança para LLMs
+                ::icon(fas fa-wrench)
+                Hackeando prompt
+                Backdoors
+                Medidas defensivas
