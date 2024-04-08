@@ -72,9 +72,6 @@ This section introduces essential knowledge about mathematics, Python, and neura
 <summary>Toggle section</summary>
 -->
 
-
-![](img/roadmap_engineer_pt_br.png)
-
 ### 1. Mathematics for Machine Learning
 
 Before mastering machine learning, it is important to understand the fundamental mathematical concepts that power these algorithms.
