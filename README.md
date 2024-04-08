@@ -65,8 +65,10 @@ A list of notebooks and articles related to large language models.
 
 This section introduces essential knowledge about mathematics, Python, and neural networks. You might not want to start here, but refer to it as needed.
 
+<!---
 <details>
 <summary>Toggle section</summary>
+-->
 ![](img/roadmap_fundamentals.png)
 
 ### 1. Mathematics for Machine Learning
