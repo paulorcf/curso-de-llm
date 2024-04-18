@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🗣️ Projeto de aprendizagem focado em IA Generativa utilizando modelos de LLM por meio de software livre</h1>
 
-Esse projeto é um fork do projeto do [Maxime Labonne](https://mlabonne.github.io/blog/), o original em Inglês mantendo o fork [Readme em Inglês completo](README_ENG.md)
+Esse projeto é um fork do projeto do [Maxime Labonne](https://mlabonne.github.io/blog/), o original em Inglês mantendo o fork [Readme em Inglês completo](README_EN.md)
 
 ## O curso de LLM é dividido em 3 partes (2 em Português no momento):
 
