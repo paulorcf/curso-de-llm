@@ -1,0 +1,38 @@
+%%{init: {
+    'theme': 'neutral',
+    'fontFamily' : 'verdana',
+    'fontSize' : '10',
+    'darkMode' : true,
+    'arrowMarkerAbsolute': true
+    
+}}%%
+
+%% https://mermaid.js.org/config/theming.html
+%% default, neutral, dark, forest, base
+%% fontFamily, "\"trebuchet ms\", verdana, arial, sans-serif;"
+%% @paulorcf - 04.2024 - v1
+
+mindmap
+    root((Engenheiro de LLM))
+        id(Avançado)
+        ::icon(fa fa-book)
+        :::urgent large
+            Optimização de inferência
+                ::icon(fas fa-wrench)
+                Atenção "flash"
+                Cache Chave-valor
+                Speculative decoding
+        id))Super Avançado))
+        ::icon(fa fa-book)
+        :::urgent large
+            Deploying LLMs
+                ::icon(fas fa-wrench)
+                Desenvolvimento local
+                Deployment demonstração
+                Deployment no servidor
+                Deployment na borda (edge)
+            Segurança para LLMs
+                ::icon(fas fa-wrench)
+                Hackeando prompt
+                Backdoors
+                Medidas defensivas
